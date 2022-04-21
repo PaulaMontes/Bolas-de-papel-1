@@ -1,2 +1,1 @@
-# Bolas-de-papel-1
-pro-c20
+# PROC21_Materia_JS_Repetitiva
